@@ -1,6 +1,9 @@
+Hey I'm Leno,
 
+Worked as a PHP WebDeveloper for 2 years.
+Currently in retail and learning python while streaming on the side. 
 
-<!---
-Rengleno/Rengleno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I will certainly be active here again. 
+You are forced to follow me on twitch.tv/LostLeno if you read this far. 
+
+Cheers
